@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "914884440649",
+    "project_id": "thebakerboys-4aaa4",
+    "storage_bucket": "thebakerboys-4aaa4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914884440649:android:2a94aca7bbf8cb44f3c598",
+        "android_client_info": {
+          "package_name": "com.apol.thebakerbois"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "914884440649-5lu4soou0do6d4d6hsluk511sfsp8nun.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.apol.thebakerbois",
+            "certificate_hash": "e41f43a32c963c1b197d5fd3e79c71044104adc1"
+          }
+        },
+        {
+          "client_id": "914884440649-1qefaf4ni3bot18409kr5642g37i7ci2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOXDomh03Zaa51ENlzojwqYX4Bcg42wTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "914884440649-1qefaf4ni3bot18409kr5642g37i7ci2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

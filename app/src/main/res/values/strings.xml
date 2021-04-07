@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">TheBakerBois</string>
+
+    <string name="content_description">image</string>
+    <string name="title_login">LOGIN</string>
+    <string name="et_hint_email_id">Email ID</string>
+    <string name="et_hint_password">Password</string>
+    <string name="forgot_password_id">Forgot Password?</string>
+    <string name="register">Register</string>
+    <string name="btn_lbl_login">Login</string>
+    <string name="do_not_have_account">Don\'t have an account?</string>
+    <string name="register_title_text">CREATE AN ACCOUNT</string>
+    <string name="hint_first_name">First Name</string>
+    <string name="til_create_last_name">Last Name</string>
+    <string name="hint_email_id">Email ID</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="text_terms_condition">I Agree To The </string>
+    <string name="terms_and_condition_2"><u><b>Terms and Conditions</b></u></string>
+    <string name="register_text">Register</string>
+    <string name="already_have_account">Already have an account?</string>
+    <string name="login_have_account"><b><u>Login</u></b></string>
+    <string name="splash_text"><b><u>TheBakerBois!</u></b></string>
+
+    <string name="err_msg_enter_first_name">Please enter first name.</string>
+    <string name="err_msg_enter_last_name">Please enter last name.</string>
+    <string name="err_msg_enter_email">Please enter email</string>
+    <string name="err_msg_enter_password">Please enter password with length greater than 7.</string>
+    <string name="err_msg_enter_confirm_password">Please enter matching password.</string>
+    <string name="err_msg_password_mismatch">Password and confirm password mismatch.</string>
+    <string name="err_msg_check_terms_and_conditions">Please check the Terms and Condition.</string>
+    <string name="err_msg_invalid_email">Please enter a valid email.</string>
+    <string name="err_msg_invalid_name">Please enter a valid name.(Numbers are not allowed).</string>
+    <string name="registry_successful">Thanks for Registering!</string>
+
+    <string name="please_wait">Please Wait&#8230;</string>
+    <string name="forgot_password_title">Forgot password? <b>Enter your Email ID</b></string>
+    <string name="submit">Submit</string>
+
+    <string name="email_sent_successfully">Instruction to reset password is sent to your email.</string>
+
+    <string name="title_complete_profile">PROFILE</string>
+    <string name="et_hint_mobile_number">Mobile Number</string>
+    <string name="rb_lbl_male">MALE</string>
+    <string name="rb_lbl_female">FEMALE</string>
+    <string name="btn_lbl_save">Save</string>
+    <string name="first_name_hint">First Name</string>
+    <string name="last_name_hint">Last Name</string>
+    <string name="email_hint">Email</string>
+    <string name="female_text">Female</string>
+    <string name="male_text">Male</string>
+    <string name="save_text">Save</string>
+
+    <string name="read_storage_permission_denied">Read Storage Permission Denied. This can be allowed in the settings.</string>
+    <string name="image_selection_failed">Failed Image Selection</string>
+
+    <string name="invalid_mobile_number">Invalid Mobile Number.</string>
+    <string name="update_profile_successfull">User profie successfully updated.</string>
+</resources>
